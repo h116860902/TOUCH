@@ -1,0 +1,26 @@
+skeleton.png
+size:492,224
+filter:Linear,Linear
+pma:true
+body5
+bounds:212,103,110,118
+eye1
+bounds:324,133,30,37
+eye1w
+bounds:356,133,30,37
+eye2
+bounds:324,115,38,16
+eye2w
+bounds:364,115,38,16
+handL
+bounds:378,14,67,81
+handR5
+bounds:404,97,85,73
+head5
+bounds:2,2,208,219
+leg L5
+bounds:212,7,89,94
+legR5
+bounds:303,14,73,87
+shadow
+bounds:324,172,163,49

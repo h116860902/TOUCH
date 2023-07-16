@@ -1,0 +1,53 @@
+skeleton.png
+size:1924,1308
+filter:Linear,Linear
+pma:true
+1
+bounds:775,1172,154,131
+body5
+bounds:663,1185,110,118
+eye1
+bounds:93,1280,50,23
+eye1w
+bounds:145,1280,29,23
+offsets:0,0,30,37
+eye2
+bounds:2,1291,49,12
+eye2w
+bounds:53,1286,38,17
+offsets:0,5,38,27
+handL
+bounds:428,1222,67,81
+handR5
+bounds:341,1230,85,73
+head5
+bounds:931,1084,208,219
+last bg1
+bounds:2,2,1920,1080
+leg L5
+bounds:572,1209,89,94
+legR5
+bounds:497,1216,73,87
+shadow
+bounds:176,1254,163,49
+
+skeleton_2.png
+size:1924,1084
+filter:Linear,Linear
+pma:true
+last bg2
+bounds:2,2,1920,1080
+
+skeleton_3.png
+size:1924,1084
+filter:Linear,Linear
+pma:true
+last bg3
+bounds:2,2,1920,1080
+
+skeleton_4.png
+size:1924,1084
+filter:Linear,Linear
+pma:true
+背景
+bounds:2,2,1920,1080
